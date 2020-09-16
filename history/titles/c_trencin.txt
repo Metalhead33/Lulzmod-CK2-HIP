@@ -1,0 +1,93 @@
+# -*- ck2.history.titles -*-
+
+741.1.1 = {
+	liege = d_moravia
+	holder = 187000
+}
+766.1.1 = {
+	holder = 146177
+}
+801.1.1 = {
+	holder = 146178
+}
+814.1.1 = {
+	holder = 187009
+}
+819.1.1 = {
+	holder = 187001
+}
+830.1.1 = {
+	liege = d_nyitra
+	holder = 187010
+}
+850.1.1 = {
+	holder = 187003
+}
+871.12.1 = {
+	holder = 187006
+}
+894.1.1 = {
+	holder = 187008
+}
+902.1.1 = {
+	holder = 0
+}
+972.1.1 = {
+	liege = d_nyitra
+	holder = 462 # Michael, Younger son of Taksony. Assumed to have been Duke of Nyitra under his brother's Kingship
+}
+995.1.1 = {
+	holder = 482 # Stephen, Duke of Nyitra between 995-997, before becoming King
+}
+997.1.1 = {
+	holder = 487
+}
+1029.1.1 = {
+	holder = 466
+}
+1032.1.1 = {
+	liege = k_hungary
+	holder = 482	
+}
+1037.6.23 = {
+	holder = 1000260814
+}
+1048.1.1 = {
+	liege = d_nyitra
+}
+1063.12.1 = {
+	liege = k_hungary
+}
+1066.1.1 = {
+	liege = d_nyitra
+}
+1083.1.1 = {
+	holder = 4432
+}
+1098.1.1 = {
+	holder = 4433
+}
+1105.1.1 = {
+	holder = 93678
+}
+1150.1.1 = {
+	holder = 93679
+}
+1180.1.1 = {
+	holder = 93680
+}
+1200.1.1 = {
+	holder = 93683
+}
+1249.1.1 = {
+	holder = 93699
+}
+1259.1.1 = {
+	holder = 470163
+}
+1278.1.1 = {
+	holder = 93711
+}
+1321.3.18 = {
+	holder = 470160
+}

@@ -1,0 +1,24 @@
+# -*- ck2.history.titles -*-
+
+989.1.1 = {
+	holder = 1233341 # Ajtony
+}
+1008.1.1 = {
+	liege = k_hungary
+	holder = 4379
+}
+1031.1.1 = {
+	holder = 4383
+}
+1042.6.26 = {
+	holder = 1000260786
+}
+1083.1.1 = {
+	holder = 4386
+}
+1098.1.1 = {
+	holder = 4387
+}
+1117.1.1 = {
+	holder = 0
+}
